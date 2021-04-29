@@ -9,8 +9,10 @@ https://github.com/wangpf3/Commonsense-Path-Generator
 
 ## convei lab modified (trouble shooting version) git hub code
 https://github.com/min942773/path_generator
-## baseline 
 
+## baseline 
+https://github.com/leedhn/capstone21-1/blob/main/baseline_csqa_Roberta.ipynb
++ make baseline with Roberta
 
 ## run mnli 
 https://github.com/leedhn/capstone21-1/blob/main/run_mnli.ipynb
