@@ -13,6 +13,7 @@ https://github.com/min942773/path_generator
 ## baseline 
 https://github.com/leedhn/capstone21-1/blob/main/baseline_csqa_Roberta.ipynb
 + make baseline with Roberta
+<img width="700" alt="스크린샷 2021-04-29 오후 11 36 14" src="https://user-images.githubusercontent.com/69630288/116568796-c18bce00-a943-11eb-86a3-e4a2dab84ead.png">
 
 
 ## run mnli 
@@ -35,6 +36,8 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 ![스크린샷 2021-04-12 오후 5 39 54](https://user-images.githubusercontent.com/69630288/116567437-95bc1880-a942-11eb-81ee-36199379d045.png)
 
 유의미한 차이를 발견할 수 없었다.
+
+
 
 #### contradiciton_isa
 <img width="700" alt="스크린샷 2021-04-29 오전 1 21 35" src="https://user-images.githubusercontent.com/69630288/116567793-e9c6fd00-a942-11eb-8203-f7ea3d7fcb12.png">
