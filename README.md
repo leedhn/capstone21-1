@@ -14,6 +14,7 @@ https://github.com/min942773/path_generator
 https://github.com/leedhn/capstone21-1/blob/main/baseline_csqa_Roberta.ipynb
 + make baseline with Roberta
 
+
 ## run mnli 
 https://github.com/leedhn/capstone21-1/blob/main/run_mnli.ipynb
 + run mnli with question|answer and generated path
