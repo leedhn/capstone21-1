@@ -35,6 +35,11 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 
 유의미한 차이를 발견할 수 없었다.
 
+<img width="500" alt="스크린샷 2021-04-29 오전 1 21 35" src="https://user-images.githubusercontent.com/69630288/116567793-e9c6fd00-a942-11eb-8203-f7ea3d7fcb12.png">
+<img width="500" alt="스크린샷 2021-04-29 오전 1 22 41" src="https://user-images.githubusercontent.com/69630288/116567810-edf31a80-a942-11eb-85bc-a9a0842f5f5a.png">
+<img width="1143" alt="스크린샷 2021-04-29 오전 1 23 18" src="https://user-images.githubusercontent.com/69630288/116567817-efbcde00-a942-11eb-9bd5-ca5b869bdff3.png">
+
+
 ## GPT error extended result
 <img width="542" alt="스크린샷 2021-04-29 오후 10 54 06" src="https://user-images.githubusercontent.com/69630288/116562189-eaa96000-a93d-11eb-846d-8ac3a4b03b08.png">
 
