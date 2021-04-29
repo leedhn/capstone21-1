@@ -35,17 +35,18 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 
 유의미한 차이를 발견할 수 없었다.
 
+#### contradiciton_isa
 <img width="700" alt="스크린샷 2021-04-29 오전 1 21 35" src="https://user-images.githubusercontent.com/69630288/116567793-e9c6fd00-a942-11eb-8203-f7ea3d7fcb12.png">
 
-entailment_zeros 노
 
+#### contradiction_zeros
 <img width="700" alt="스크린샷 2021-04-29 오전 1 22 41" src="https://user-images.githubusercontent.com/69630288/116567810-edf31a80-a942-11eb-85bc-a9a0842f5f5a.png">
 
-contradiction_zeros 초
 
+#### entailment_zeros
 <img width="700" alt="스크린샷 2021-04-29 오전 1 23 18" src="https://user-images.githubusercontent.com/69630288/116567817-efbcde00-a942-11eb-9bd5-ca5b869bdff3.png">
 
-contradiciton_isa 파
+
 
 
 ## GPT error extended result
