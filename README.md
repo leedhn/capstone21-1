@@ -32,6 +32,7 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 
 ## path screening result
 ![스크린샷 2021-04-12 오후 5 39 54](https://user-images.githubusercontent.com/69630288/116567437-95bc1880-a942-11eb-81ee-36199379d045.png)
+
 유의미한 차이를 발견할 수 없었다.
 
 ## GPT error extended result
