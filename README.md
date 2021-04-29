@@ -31,5 +31,6 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 + contradict&neutral -> _isa_ padding
 
 ## GPT error extended result
+<img width="542" alt="스크린샷 2021-04-29 오후 10 54 06" src="https://user-images.githubusercontent.com/69630288/116562189-eaa96000-a93d-11eb-846d-8ac3a4b03b08.png">
 
 ## modify dataset 
