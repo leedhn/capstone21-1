@@ -14,5 +14,9 @@ https://github.com/min942773/path_generator
 + run mnli with question|answer and generated path
 + path generator가 만들어낸 path와 question-answer 페어 간 관련도 측정
 + contradict/ neutral+contradict 이 path에 대해 screening 진행
++ https://github.com/leedhn/capstone21-1/blob/main/run_mnli.ipynb
+### mnli result example
++ 
+## 
 
 
