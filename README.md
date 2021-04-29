@@ -17,7 +17,7 @@ https://github.com/leedhn/capstone21-1/blob/main/run_mnli.ipynb
 + contradict/ neutral+contradict 이 path에 대해 screening 진행
 
 #### mnli result example
-
-## 
+https://github.com/leedhn/capstone21-1/blob/main/except_dump_train_result.csv
+## modify pickle file (hidden representation)
 
 
