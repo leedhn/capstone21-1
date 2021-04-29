@@ -32,7 +32,7 @@ https://github.com/leedhn/capstone21-1/blob/main/make_pickle.ipynb
 
 ## result
 ![W B Chart 2021  4  12  오후 5_36_00](https://user-images.githubusercontent.com/69630288/116566794-0282e300-a942-11eb-92bd-8fb98220d5b5.png)
-
+<img width="542" alt="스크린샷 2021-04-29 오후 10 54 06" src="https://user-images.githubusercontent.com/69630288/116562189-eaa96000-a93d-11eb-846d-8ac3a4b03b08.png">
 ## GPT error extended result
 <img width="542" alt="스크린샷 2021-04-29 오후 10 54 06" src="https://user-images.githubusercontent.com/69630288/116562189-eaa96000-a93d-11eb-846d-8ac3a4b03b08.png">
 
